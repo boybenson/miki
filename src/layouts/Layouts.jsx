@@ -62,7 +62,7 @@ const Layout = () => {
     },
     {
       name: "Help",
-      href: "#",
+      href: "help",
       icon: QuestionMarkCircleIcon,
       current: "/student/help" === location.pathname ? true : false,
     },
